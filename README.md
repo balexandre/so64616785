@@ -2,6 +2,10 @@
 
 Code to help answering [StackOverflow question #64616785](https://stackoverflow.com/a/64617922/28004)
 
+# Available in Netlify
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2baa481c-df27-4c14-96da-b5f66ddb98f7/deploy-status)](https://app.netlify.com/sites/distracted-keller-a41f34/deploys)
+
 ## Build Setup
 
 ``` bash
